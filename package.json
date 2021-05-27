@@ -1,0 +1,17 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "hw for OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Eli",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+  },
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
